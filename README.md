@@ -1,6 +1,8 @@
 # uts_mobole2
 
-A new Flutter project.
+Nama: Sahrul Julistiawan
+NIM: 23552011145
+Kelas: TIF K 23A
 
 ## Getting Started
 
